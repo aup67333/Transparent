@@ -1,0 +1,24 @@
+c:\users\aup67\onedrive\文件\visual studio 2015\Projects\CameraObjectROI\CameraObjectROI\bin\Debug\CameraObjectROI.exe.config
+c:\users\aup67\onedrive\文件\visual studio 2015\Projects\CameraObjectROI\CameraObjectROI\obj\Debug\CameraObjectROI.Form1.resources
+c:\users\aup67\onedrive\文件\visual studio 2015\Projects\CameraObjectROI\CameraObjectROI\obj\Debug\CameraObjectROI.Properties.Resources.resources
+c:\users\aup67\onedrive\文件\visual studio 2015\Projects\CameraObjectROI\CameraObjectROI\obj\Debug\CameraObjectROI.csproj.GenerateResource.Cache
+c:\users\aup67\onedrive\文件\visual studio 2015\Projects\CameraObjectROI\CameraObjectROI\bin\Debug\CameraObjectROI.exe
+c:\users\aup67\onedrive\文件\visual studio 2015\Projects\CameraObjectROI\CameraObjectROI\bin\Debug\CameraObjectROI.pdb
+c:\users\aup67\onedrive\文件\visual studio 2015\Projects\CameraObjectROI\CameraObjectROI\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+c:\users\aup67\onedrive\文件\visual studio 2015\Projects\CameraObjectROI\CameraObjectROI\bin\Debug\Emgu.CV.UI.dll
+c:\users\aup67\onedrive\文件\visual studio 2015\Projects\CameraObjectROI\CameraObjectROI\bin\Debug\Emgu.CV.UI.GL.dll
+c:\users\aup67\onedrive\文件\visual studio 2015\Projects\CameraObjectROI\CameraObjectROI\bin\Debug\Emgu.CV.World.dll
+c:\users\aup67\onedrive\文件\visual studio 2015\Projects\CameraObjectROI\CameraObjectROI\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+c:\users\aup67\onedrive\文件\visual studio 2015\Projects\CameraObjectROI\CameraObjectROI\bin\Debug\ZedGraph.dll
+c:\users\aup67\onedrive\文件\visual studio 2015\Projects\CameraObjectROI\CameraObjectROI\bin\Debug\Emgu.CV.UI.xml
+c:\users\aup67\onedrive\文件\visual studio 2015\Projects\CameraObjectROI\CameraObjectROI\bin\Debug\Emgu.CV.UI.GL.xml
+c:\users\aup67\onedrive\文件\visual studio 2015\Projects\CameraObjectROI\CameraObjectROI\bin\Debug\Emgu.CV.World.xml
+c:\users\aup67\onedrive\文件\visual studio 2015\Projects\CameraObjectROI\CameraObjectROI\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+c:\users\aup67\onedrive\文件\visual studio 2015\Projects\CameraObjectROI\CameraObjectROI\obj\Debug\CameraObjectROI.exe
+c:\users\aup67\onedrive\文件\visual studio 2015\Projects\CameraObjectROI\CameraObjectROI\obj\Debug\CameraObjectROI.pdb
+c:\users\aup67\onedrive\文件\visual studio 2015\Projects\CameraObjectROI\CameraObjectROI\obj\Debug\CameraObjectROI.csprojResolveAssemblyReference.cache
+C:\Users\aup67\OneDrive\文件\Visual Studio 2015\Projects\CameraObjectROI\CameraObjectROI\bin\Debug\ZedGraph.xml
+C:\Users\aup67\OneDrive\文件\Visual Studio 2015\Projects\CameraObjectROI\CameraObjectROI\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\aup67\OneDrive\文件\Visual Studio 2015\Projects\Transparent system\CameraObjectROI\bin\Debug\CameraObjectROI.exe.config
+C:\Users\aup67\OneDrive\文件\Visual Studio 2015\Projects\Transparent system\CameraObjectROI\obj\Debug\CameraObjectROI.exe
+C:\Users\aup67\OneDrive\文件\Visual Studio 2015\Projects\Transparent system\CameraObjectROI\obj\Debug\CameraObjectROI.pdb
